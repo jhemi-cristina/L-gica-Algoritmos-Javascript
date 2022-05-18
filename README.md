@@ -1,1 +1,1 @@
-# L-gica-Algoritmos-Javascript
+# Logica-Algoritmos-Javascript
